@@ -13,3 +13,7 @@ actpwd="9898"
 actcity="rajkot"
 
 console.table([acctid,actemail,actpwd,actcity,acctstate]);
+/* 
+prefer to use var
+because of issues in block scope and funstional scope
+*/
